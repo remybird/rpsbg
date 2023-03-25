@@ -1,0 +1,35 @@
+Aseprite Importer currently has three very effective features.
+When importing a file from Aseprite:
+Import from layer as sprite
+Import from tag as animation
+Import from tileset in version 1.3 as sprite
+
+Supported Unity versions: 2020, 2021, 2022.
+
+To use these features, simply configure them in the Inspector by selecting the appropriate parameters. It is also very user-friendly for beginners as it eliminates the need for complex Texture/Sprite configuration.
+
+It can also serve as a good basis for a workflow from art to programming.
+Note: This plugin directly reads the Aseprite content without the need to configure the Aseprite path.
+
+Usage
+Drag and drop the Aseprite file into the Assets of your Unity project
+Select the file
+Configure the parameters you want to import in the Inspector
+Configure the parameters (see below)
+Click Apply
+
+When Import Flags is set to LayerToSprite:
+4.1. Add a child item in Layers Importing
+4.2. Select the corresponding layer in the child item
+
+When Import Flags is set to TagToAnimation:
+4.1. Add a child item in Animations Importing
+4.2. Select the corresponding tag in the child item
+4.3. Configure whether the animation loops or not
+
+When Import Flags is set to Tileset:
+4.1. Add a child item in Tileset Importing
+4.2. Select the corresponding tileset in the child item
+
+Contact
+Email: zzmingo88@gmail.comTwitter: @MingoZ88
