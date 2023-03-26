@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4736394fad8e44276aa4f642ea9a17ed
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1ec1c730553244fca1277bf4112f009f, type: 3}
+  importFlags: 4
+  pixelsPerUnit: 8
+  pivot: {x: 0.5, y: 0.5}
+  layersImporting: []
+  animationsImporting: []
+  tilesetImporting:
+  - overrides: 0
+    pixelsPerUnit: 0
+    pivot: {x: 0, y: 0}
+    tileset: Tileset_0
+    generateTiles: 0
+    tileColor: {r: 0, g: 0, b: 0, a: 0}
+    tileColliderType: 0
