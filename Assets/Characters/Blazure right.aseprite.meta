@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a7d00d43f1764d60a36d9d9f95e5ecb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1ec1c730553244fca1277bf4112f009f, type: 3}
+  importFlags: 2
+  pixelsPerUnit: 8
+  pivot: {x: 0.5, y: 0.5}
+  layersImporting: []
+  animationsImporting:
+  - overrides: 0
+    pixelsPerUnit: 0
+    pivot: {x: 0, y: 0}
+    tag: Walk
+    loop: 1
+  tilesetImporting: []
