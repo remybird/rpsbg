@@ -449,13 +449,15 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 77413e5c016dc4ee293382371d985bae, type: 2}
   - {fileID: 11400000, guid: d54db073de65949328affb627bc290b6, type: 2}
   - {fileID: 11400000, guid: c18c02398b2c54b48866046fa06de05a, type: 2}
-  - {fileID: 11400000, guid: b84d01420ff864debb80f2a7744d3067, type: 2}
   - {fileID: 11400000, guid: cac53bcc124a44a3895fdafacecd315c, type: 2}
+  - {fileID: 11400000, guid: 0b64e87ead4eb40d395896b3cee55777, type: 2}
   mountainS:
   - {fileID: 11400000, guid: d238fe7a9a4df492faeedbffb8ea074b, type: 2}
-  - {fileID: 11400000, guid: f5ba7540d57ca445fba34fbb11107c12, type: 2}
-  - {fileID: 11400000, guid: 84e624da860974e8d814ce5fe47aa2be, type: 2}
   - {fileID: 11400000, guid: ff4d33e94c9f146248b834276b40fda1, type: 2}
+  - {fileID: 11400000, guid: 84e624da860974e8d814ce5fe47aa2be, type: 2}
+  - {fileID: 11400000, guid: b84d01420ff864debb80f2a7744d3067, type: 2}
+  - {fileID: 11400000, guid: 3dd964a69239244219a6161153486db9, type: 2}
+  - {fileID: 11400000, guid: d32d9ee597b5944db8ba8422214f98e8, type: 2}
   floor: {fileID: 1748313516}
   walls: {fileID: 2116526831}
 --- !u!1 &1748313513
